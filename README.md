@@ -1,0 +1,2 @@
+Projeto feito durante o bootcamp <b>Hiring Coders 2</b>, utilizando javaScript e biblioteca ReadLine-Sync.
+Treinamento para criação e acesso de dados de arrays de objetos, métodos de iteração filter e sort.
